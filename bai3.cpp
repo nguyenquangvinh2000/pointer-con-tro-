@@ -1,5 +1,3 @@
-//Bui thị Thùy Dung a36044
-
 #include <iostream>
 using namespace std;
 struct thongtin
